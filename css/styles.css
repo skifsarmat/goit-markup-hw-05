@@ -524,7 +524,7 @@ img {
 .footer-list {
 }
 
-.footer-item {
+.footer-item:not(:last-child) {
   margin-bottom: 9px;
 }
 
